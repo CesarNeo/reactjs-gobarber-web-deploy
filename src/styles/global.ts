@@ -27,5 +27,3 @@ export default createGlobalStyle`
         cursor: pointer;
     }
 `;
-
-export const herd =
